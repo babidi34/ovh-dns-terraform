@@ -16,7 +16,7 @@
 
 ### Étape 1 : Créer et configurer le fichier `.env`
 
-Renommez le fichier `.env-exemple` en `.env` et modifiez-le avec vos propres valeurs :
+Renommez le fichier `.env-example` en `.env` et modifiez-le avec vos propres valeurs :
 
 ```plaintext
 export OVH_APPLICATION_KEY=XXX
