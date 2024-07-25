@@ -24,7 +24,7 @@ export OVH_APPLICATION_SECRET=XXX
 export OVH_CONSUMER_KEY=XXX
 export OVH_ENDPOINT=XXX
 ```
-### Étape 2 : Créer le fichier `dns_records.auto.tfvars`
+### Étape 2 : Modifier le fichier `dns_records.auto.tfvars`
 
 Définissez les valeurs de vos enregistrements DNS par zone dans dns_records.auto.tfvars
 
